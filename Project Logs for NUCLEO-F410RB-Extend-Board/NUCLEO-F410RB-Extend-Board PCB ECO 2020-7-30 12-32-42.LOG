@@ -1,0 +1,13 @@
+Change component parameters: Designator = "C9"; Footprint = "CAP-TH_BD6.3-P2.50-D1.0-FD"; UniqueID = "\GRCFRHBO\YBOQFOOL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC_ID"; Value = "C18104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2020-7-27"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "信念D力量"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF/16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MD1-15
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Member To Class: ClassName=核心 Member=Component S3 K2-SMD_L6x_W3.5_LS8.0

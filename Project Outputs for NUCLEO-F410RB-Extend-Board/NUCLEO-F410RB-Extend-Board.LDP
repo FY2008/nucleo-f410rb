@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\electronic_workspace\adProject\NUCLEO-F410RB-Extend-Board\NUCLEO-F410RB-Extend-Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nucleo-f410rb-extend-board-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nucleo-f410rb-extend-board-slotholes.txt|DrillLayers=gtl,gbl
